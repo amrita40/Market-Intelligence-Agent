@@ -12,7 +12,8 @@ Built with **Node.js**, **Express**, **LangChain**, and **React (Vite)**.
 ## 📸 Screenshots
 
 ### 🔍 Homepage
-![Homepage]()
+![Homepage](Screenshot 2025-07-13 034138.png)
+
 
 
 

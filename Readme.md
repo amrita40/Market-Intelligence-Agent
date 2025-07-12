@@ -16,8 +16,8 @@ Built with **Node.js**, **Express**, **LangChain**, and **React (Vite)**.
 ### 🔍 Homepage
 ![Homepage](https://github.com/amrita40/Market-Intelligence-Agent/blob/main/Screenshot%202025-07-13%20034138.png?raw=true)
 
-### ✅ Analysis Result
-![Result](./screenshots/screenshot-result.png)
+
+![Options](https://github.com/amrita40/Market-Intelligence-Agent/blob/main/Screenshot%202025-07-13%20034148.png?raw=true)
 
 
 

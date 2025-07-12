@@ -1,0 +1,26 @@
+{
+  "name": "market-agent-backend",
+  "version": "1.0.0",
+  "description": "Market Agent - LangGraph Node.js project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "@langchain/core": "^0.3.62",
+    "@langchain/openai": "^0.1.0",
+    "axios": "^1.6.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "langchain": "^0.3.29",
+    "youtube-transcript": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}

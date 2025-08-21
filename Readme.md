@@ -9,7 +9,6 @@ An AI-powered market analysis agent that:
 Built with **Node.js**, **Express**, **LangChain**, and **React (Vite)**.
 
 ---
-## 📸 Screenshots
 
 ## 📸 Screenshots
 
